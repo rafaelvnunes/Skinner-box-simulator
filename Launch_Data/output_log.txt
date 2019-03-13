@@ -1,0 +1,80 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     1129 MB
+    Driver:   22.20.16.4735
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Rafael\Desktop\Skinner's Box Simulator v1.0 - Caixa e camera\Launch_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Rafael\Desktop\Skinner's Box Simulator v1.0 - Caixa e camera\Launch_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Rafael\Desktop\Skinner's Box Simulator v1.0 - Caixa e camera\Launch_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Rafael\Desktop\Skinner's Box Simulator v1.0 - Caixa e camera\Launch_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Rafael\Desktop\Skinner's Box Simulator v1.0 - Caixa e camera\Launch_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Rafael\Desktop\Skinner's Box Simulator v1.0 - Caixa e camera\Launch_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Rafael\Desktop\Skinner's Box Simulator v1.0 - Caixa e camera\Launch_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Rafael\Desktop\Skinner's Box Simulator v1.0 - Caixa e camera\Launch_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Rafael\Desktop\Skinner's Box Simulator v1.0 - Caixa e camera\Launch_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Rafael\Desktop\Skinner's Box Simulator v1.0 - Caixa e camera\Launch_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Rafael\Desktop\Skinner's Box Simulator v1.0 - Caixa e camera\Launch_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Rafael\Desktop\Skinner's Box Simulator v1.0 - Caixa e camera\Launch_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.096 seconds
+Platform assembly: C:\Users\Rafael\Desktop\Skinner's Box Simulator v1.0 - Caixa e camera\Launch_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Rafael\Desktop\Skinner's Box Simulator v1.0 - Caixa e camera\Launch_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.300593 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 145c -> priority: 1 
+  Thread -> id: 2608 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 15.669457 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 283.
+Total: 0.936096 ms (FindLiveObjects: 0.124401 ms CreateObjectMapping: 0.045236 ms MarkObjects: 0.670843 ms  DeleteObjects: 0.090473 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.467276 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 298.
+Total: 0.440032 ms (FindLiveObjects: 0.173236 ms CreateObjectMapping: 0.021590 ms MarkObjects: 0.227212 ms  DeleteObjects: 0.017477 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.441060 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 283.
+Total: 0.248289 ms (FindLiveObjects: 0.035469 ms CreateObjectMapping: 0.013365 ms MarkObjects: 0.180947 ms  DeleteObjects: 0.016963 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.942778 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 298.
+Total: 0.405590 ms (FindLiveObjects: 0.040096 ms CreateObjectMapping: 0.023646 ms MarkObjects: 0.317686 ms  DeleteObjects: 0.022618 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.171533 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 751.
+Total: 1.092883 ms (FindLiveObjects: 0.214361 ms CreateObjectMapping: 0.072995 ms MarkObjects: 0.741782 ms  DeleteObjects: 0.060658 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.142103 ms
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 306.
+Total: 0.950489 ms (FindLiveObjects: 0.050891 ms CreateObjectMapping: 0.023132 ms MarkObjects: 0.321799 ms  DeleteObjects: 0.553638 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.652851 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 751.
+Total: 0.661076 ms (FindLiveObjects: 0.078136 ms CreateObjectMapping: 0.044722 ms MarkObjects: 0.514056 ms  DeleteObjects: 0.023132 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.951517 ms
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 306.
+Total: 0.747437 ms (FindLiveObjects: 0.035469 ms CreateObjectMapping: 0.019534 ms MarkObjects: 0.266795 ms  DeleteObjects: 0.424096 ms)
+
